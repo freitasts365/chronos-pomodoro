@@ -2,9 +2,12 @@
   font-size: 2rem;
   color: var(--primary-color);
   text-align: center;
-  margin: 20px 0;
+  align-items: center;
+  display: flex;
+  justify-content: center;
   font-weight: bold;
   text-transform: uppercase;
+  gap: 2.4rem;
   letter-spacing: 1px;
   line-height: 1.2;
   font-family: "Arial", sans-serif;
