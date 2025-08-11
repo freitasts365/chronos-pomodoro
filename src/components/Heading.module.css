@@ -1,0 +1,12 @@
+.heading {
+  font-size: 2rem;
+  color: var(--primary-color);
+  text-align: center;
+  margin: 20px 0;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  line-height: 1.2;
+  font-family: "Arial", sans-serif;
+  transition: color 0.3s ease;
+}
